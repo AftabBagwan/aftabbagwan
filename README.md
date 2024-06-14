@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 
 
-### Hi there 👋
+### Hi, I'm Aftab Bagwan 👋
 
-<h1 align="center">Hi 👋, I'm Aftab Bagwan</h1>
+<!-- <h1 align="center">Hi, I'm Aftab Bagwan 👋</h1> -->
 <h3 align="center">I am a Passionate fresher pursuing B.E in Electronics and Telecommunications currently in final year. I always like to explore new technology and implement those things in projects. I also do DSA and always like to brainstorm to solve the coding questions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabbagwan&label=Profile%20views&color=0e75b6&style=flat" alt="aftabbagwan" /> </p>
